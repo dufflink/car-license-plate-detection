@@ -7,5 +7,5 @@ https://user-images.githubusercontent.com/29461219/153381556-9554837a-d844-41f8-
 ### Other projects
 [Realtime text analysis with Word Tagger: pro computer vision](https://github.com/dufflink/recipe-reader/tree/master/Recipe-reader) and the [article](https://evilmartians.com/chronicles/realtime-text-analysis-word-tagger-pro-computer-vision-part-1) about it.
 
-https://user-images.githubusercontent.com/29461219/199713139-8c6a00d6-9611-4c2c-a76d-f71201848adf.mp4
+https://user-images.githubusercontent.com/29461219/199932021-71512479-1b04-4e04-8d48-4418e66a393e.mp4
 
